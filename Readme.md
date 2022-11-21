@@ -1,0 +1,2 @@
+A Website with inspiration from opensource projects on codepen. Built in Html css and js all files and folders are stored on github 
+This project is made for Beaverton Academy Of Science and Engineerings Food Pantry Maintained and Hosted By KadenFleming on https://Basepantry.com
