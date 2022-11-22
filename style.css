@@ -81,7 +81,7 @@
 }
 
 .carousel .background.d {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(p17.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url();
 }
 
 .carousel .background.e {
